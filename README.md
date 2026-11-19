@@ -49,6 +49,19 @@ The app does not read, upload, or share your other calendar events. You can revo
 
 The app can show reminders for your garden tasks. The app schedules these on your device; they are not sent from a server. You can turn notifications off in the app or in Android Settings.
 
+## Data security
+
+- Your Plotato data is kept in the app's private storage on your device, which other apps cannot access.
+- The ZIP code lookup described above uses an encrypted (HTTPS) connection.
+- The app has no account system and does not send your garden data to any server, so there is no copy of it held by us that could be exposed.
+
+## Data retention
+
+- Data stored by the app stays on your device until you delete it in the app, clear the app's storage, or uninstall the app.
+- Calendar events you export stay in your calendar until you delete them in your calendar app.
+- Android backups are kept by Google according to your Google account and device backup settings.
+- We (the developer) do not keep any of your data.
+
 ## Deleting your data
 
 All of your Plotato data is stored on your device. To delete it, clear the app's storage in Android Settings or uninstall the app. Because we never receive your data, we have no copy to delete.
